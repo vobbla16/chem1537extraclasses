@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'ru-ru'
+title = 'Допы по химии 1537 9л'
+theme = 'binario'
+defaultContentLanguage = 'ru'
+defaultContentLanguageInSubdir = true
+
+[params]
+mainSections = ['extra-classes']
