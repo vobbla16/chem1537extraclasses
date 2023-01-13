@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://chem1537.ga'
 languageCode = 'ru-ru'
 title = 'Допы по химии 1537 9л'
 theme = 'binario'
@@ -7,3 +7,4 @@ defaultContentLanguageInSubdir = true
 
 [params]
 mainSections = ['extra-classes']
+mathjaxPath = 'https://cdn.mathjax.org/mathjax/latest/MathJax.js'

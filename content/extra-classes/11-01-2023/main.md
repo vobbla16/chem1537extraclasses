@@ -1,7 +1,7 @@
 +++
 title = "Занятие 11-01-2023"
 date = "2023-01-12"
-draft = true
+draft = false
 mathjax = true
 +++
 $$ \require{mhchem} $$
