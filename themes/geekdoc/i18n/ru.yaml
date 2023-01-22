@@ -1,0 +1,52 @@
+---
+edit_page: Редактировать страницу
+
+nav_navigation: Навигация
+nav_tags: Тэги
+nav_more: Больше
+nav_top: Наверх
+
+form_placeholder_search: Поиск
+
+error_page_title: Потерялись? Не волнуйтесь!
+error_message_title: Потерялись?
+error_message_code: Ошибка 404
+error_message_text: >
+  Выглядит, будто вы ищите то, чего нет. Не волнуйтесь, вы можете вернуться на <a class="gdoc-error__link" href="{{ . }}">домашнюю страницу</a>.
+
+button_toggle_dark: Toggle Dark/Light/Auto mode Переключить тёмную/светлую тему/автоматически
+button_nav_open: Открыть навигацию
+button_nav_close: Закрыть навигацию
+button_menu_open: Открыть меню
+button_menu_close: Закрыть меню
+button_homepage: Обратно на домашнюю
+
+title_anchor_prefix: "Anchor to:"
+
+posts_read_more: Читать полностью
+posts_read_time:
+  one: "Одна минута на чтение"
+  other: "{{ . }} минут на чтение"
+posts_update_prefix: Обновлено
+posts_count:
+  one: "Один пост"
+  other: "{{ . }} постов"
+posts_tagged_with: Все посты с тэгом '{{ . }}'
+
+footer_build_with: >
+  Создано при помощи <a href="https://gohugo.io/" class="gdoc-footer__link">Hugo</a> and
+  <svg class="gdoc-icon gdoc_heart"><use xlink:href="#gdoc_heart"></use></svg>
+footer_legal_notice: a
+footer_privacy_policy: Политика конфиденциальности
+footer_content_license_prefix: >
+  Находится под лицензией
+
+language_switch_no_tranlation_prefix: "Страница не переведена:"
+
+propertylist_required: необходимо
+propertylist_optional: опционально
+propertylist_default: по умолчанию
+
+pagination_page_prev: пред.
+pagination_page_next: след.
+pagination_page_state: "{{ .PageNumber }}/{{ .TotalPages }}"
